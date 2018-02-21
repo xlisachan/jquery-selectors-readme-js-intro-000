@@ -4,7 +4,7 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  return $('.pics pic-list li:last-child');
+  return $('.pics pic-list li:last');
 }
 
 function ninjaBabySelector() {
