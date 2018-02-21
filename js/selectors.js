@@ -4,7 +4,7 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  return $('use the last jQuery selector to return the last image in ');
+  return $('.pics:last');
 }
 
 function ninjaBabySelector() {
