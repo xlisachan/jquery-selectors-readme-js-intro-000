@@ -1,2 +1,4 @@
 // declare your functions here...
-$('p')
+function paragraphSelector() {
+  document.querySelector('p');
+}
